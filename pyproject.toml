@@ -1,0 +1,13 @@
+[project]
+name = "assignment-5-reasoning-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.11.16",
+    "google-genai>=1.9.0",
+    "mcp>=1.6.0",
+    "pillow>=11.1.0",
+    "pywinauto>=0.6.9",
+]
